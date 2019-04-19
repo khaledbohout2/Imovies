@@ -1,0 +1,138 @@
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "0Yk-q4-fhV"; */
+"0Yk-q4-fhV.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan"; ObjectID = "3mV-aQ-hg3"; */
+"3mV-aQ-hg3.text" = "Norman Reedus, Melissa McBride, Andrew Lincoln, Lauren Cohan";
+
+/* Class = "UILabel"; text = "heriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive."; ObjectID = "4qz-ew-rEq"; */
+"4qz-ew-rEq.text" = "heriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive.";
+
+/* Class = "UILabel"; text = "Director:"; ObjectID = "74K-uH-0bC"; */
+"74K-uH-0bC.text" = "Director:";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "8q9-OD-cvg"; */
+"8q9-OD-cvg.text" = "11";
+
+/* Class = "UILabel"; text = "Actors:"; ObjectID = "938-uP-bpx"; */
+"938-uP-bpx.text" = "Actors:";
+
+/* Class = "UILabel"; text = "USA"; ObjectID = "A50-1O-piy"; */
+"A50-1O-piy.text" = "USA";
+
+/* Class = "UITextField"; text = "Enter released Year If You Now It"; ObjectID = "BJR-Uw-fGM"; */
+"BJR-Uw-fGM.text" = "Enter released Year If You Now It";
+
+/* Class = "UILabel"; text = "Writer:"; ObjectID = "Dte-55-pEa"; */
+"Dte-55-pEa.text" = "Writer:";
+
+/* Class = "UILabel"; text = "Released:"; ObjectID = "GBS-xT-8eE"; */
+"GBS-xT-8eE.text" = "Released:";
+
+/* Class = "UILabel"; text = "2010"; ObjectID = "IPR-h4-m3S"; */
+"IPR-h4-m3S.text" = "2010";
+
+/* Class = "UITableViewSection"; headerTitle = "movie"; ObjectID = "LF6-Fd-30P"; */
+"LF6-Fd-30P.headerTitle" = "movie";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "Ly8-Ap-ir0"; */
+"Ly8-Ap-ir0.text" = "Name:";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "N0f-Pr-1vB"; */
+"N0f-Pr-1vB.text" = "N/A";
+
+/* Class = "UILabel"; text = "imdb votes:"; ObjectID = "RXv-3a-RDZ"; */
+"RXv-3a-RDZ.text" = "imdb votes:";
+
+/* Class = "UILabel"; text = "Language:"; ObjectID = "T0e-jx-ht3"; */
+"T0e-jx-ht3.text" = "Language:";
+
+/* Class = "UILabel"; text = "Total Seasons:"; ObjectID = "TJW-4v-zSq"; */
+"TJW-4v-zSq.text" = "Total Seasons:";
+
+/* Class = "UILabel"; text = "Title:"; ObjectID = "VpS-Bz-man"; */
+"VpS-Bz-man.text" = "Title:";
+
+/* Class = "UILabel"; text = "775,153"; ObjectID = "W8T-dA-EAK"; */
+"W8T-dA-EAK.text" = "775,153";
+
+/* Class = "UILabel"; text = "Plots:"; ObjectID = "Ydw-oi-g6Z"; */
+"Ydw-oi-g6Z.text" = "Plots:";
+
+/* Class = "UILabel"; text = "imdbRating:"; ObjectID = "ZqG-ar-eOa"; */
+"ZqG-ar-eOa.text" = "imdbRating:";
+
+/* Class = "UILabel"; text = "Movie Base"; ObjectID = "aw3-bN-sT5"; */
+"aw3-bN-sT5.text" = "Movie Base";
+
+/* Class = "UILabel"; text = "Frank Darabont, Angela Kang"; ObjectID = "bAl-7P-AJP"; */
+"bAl-7P-AJP.text" = "Frank Darabont, Angela Kang";
+
+/* Class = "UITextField"; text = "Enter Movie or Series Name"; ObjectID = "br9-19-CNR"; */
+"br9-19-CNR.text" = "Enter Movie or Series Name";
+
+/* Class = "UILabel"; text = "Runtime:"; ObjectID = "c8o-4f-E2m"; */
+"c8o-4f-E2m.text" = "Runtime:";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "cEr-UI-dQh"; */
+"cEr-UI-dQh.text" = "11";
+
+/* Class = "UILabel"; text = "Nominated for 1 Golden Globe. Another 67 wins & 190 nominations."; ObjectID = "cPs-Ev-nuu"; */
+"cPs-Ev-nuu.text" = "Nominated for 1 Golden Globe. Another 67 wins & 190 nominations.";
+
+/* Class = "UILabel"; text = "Production:"; ObjectID = "cTP-KM-STB"; */
+"cTP-KM-STB.text" = "Production:";
+
+/* Class = "UILabel"; text = "Drama, Horror, Sci-Fi, Thriller"; ObjectID = "cuG-G1-3wG"; */
+"cuG-G1-3wG.text" = "Drama, Horror, Sci-Fi, Thriller";
+
+/* Class = "UILabel"; text = "Metascore:"; ObjectID = "cz9-07-zra"; */
+"cz9-07-zra.text" = "Metascore:";
+
+/* Class = "UILabel"; text = "11"; ObjectID = "dGO-8d-bab"; */
+"dGO-8d-bab.text" = "11";
+
+/* Class = "UILabel"; text = "2010"; ObjectID = "dRT-06-uCI"; */
+"dRT-06-uCI.text" = "2010";
+
+/* Class = "UILabel"; text = "44 Minutes"; ObjectID = "dqc-qB-KjF"; */
+"dqc-qB-KjF.text" = "44 Minutes";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "eb2-s8-QFR"; */
+"eb2-s8-QFR.text" = "N/A";
+
+/* Class = "UILabel"; text = "Year:"; ObjectID = "eqc-Ku-bOi"; */
+"eqc-Ku-bOi.text" = "Year:";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "fcp-Su-lsC"; */
+"fcp-Su-lsC.text" = "English";
+
+/* Class = "UILabel"; text = "Awards:"; ObjectID = "le6-Nx-Cn6"; */
+"le6-Nx-Cn6.text" = "Awards:";
+
+/* Class = "UILabel"; text = "rated:"; ObjectID = "lqv-7R-Fow"; */
+"lqv-7R-Fow.text" = "rated:";
+
+/* Class = "UILabel"; text = "TV-MA"; ObjectID = "ngc-wf-My6"; */
+"ngc-wf-My6.text" = "TV-MA";
+
+/* Class = "UILabel"; text = "Year:"; ObjectID = "qND-HE-pas"; */
+"qND-HE-pas.text" = "Year:";
+
+/* Class = "UILabel"; text = "Box Office:"; ObjectID = "uVj-qA-68g"; */
+"uVj-qA-68g.text" = "Box Office:";
+
+/* Class = "UILabel"; text = "The Walking Dead"; ObjectID = "vD8-KH-YXF"; */
+"vD8-KH-YXF.text" = "The Walking Dead";
+
+/* Class = "UILabel"; text = "Genre:"; ObjectID = "wnA-64-zTm"; */
+"wnA-64-zTm.text" = "Genre:";
+
+/* Class = "UILabel"; text = "8.3"; ObjectID = "xLj-5g-A5d"; */
+"xLj-5g-A5d.text" = "8.3";
+
+/* Class = "UILabel"; text = "Country:"; ObjectID = "zCd-rf-qeT"; */
+"zCd-rf-qeT.text" = "Country:";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "zFz-I4-6EU"; */
+"zFz-I4-6EU.normalTitle" = "Reset";

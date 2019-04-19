@@ -1,0 +1,6 @@
+framework module Pods_Imovies {
+  umbrella header "Pods-Imovies-umbrella.h"
+
+  export *
+  module * { export * }
+}
