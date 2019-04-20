@@ -51,7 +51,6 @@
 		7CC199642253DE4800B513FC /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				7CCCD3562247C00F0025DE99 /* LaunchScreen.storyboard */,
 				7CCCD3612247D68E0025DE99 /* Movie.swift */,
 			);
 			name = Model;
@@ -61,6 +60,7 @@
 		7CC199652253DE5700B513FC /* View */ = {
 			isa = PBXGroup;
 			children = (
+				7CCCD3562247C00F0025DE99 /* LaunchScreen.storyboard */,
 				7CCCD34E2247C00E0025DE99 /* Main.storyboard */,
 			);
 			path = View;
